@@ -1,0 +1,8 @@
+build/
+bin/
+
+.vscode/
+.antlr/
+
+.DS_Store
+.clang-format
